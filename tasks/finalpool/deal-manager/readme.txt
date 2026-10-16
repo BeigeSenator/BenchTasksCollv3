@@ -1,0 +1,2 @@
+deal-manager
+status: implemented
